@@ -1,7 +1,6 @@
 const nameGirl = 'Bích hâm';
 const giftUrl = 'http://nodemy.vn';
 const contentCard = 'và đây là Hồng Bích người con gái hiền lành';
-
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
 // Mr-Nam http://facebook.com/nam.nodemy
